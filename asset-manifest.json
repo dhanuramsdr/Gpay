@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Gpay/static/css/main.42453ac5.css",
-    "main.js": "/Gpay/static/js/main.3dd105f1.js",
+    "main.js": "/Gpay/static/js/main.36007c43.js",
     "static/js/453.64512fd7.chunk.js": "/Gpay/static/js/453.64512fd7.chunk.js",
     "static/media/Screenshot 2024-04-12 231441.png": "/Gpay/static/media/Screenshot 2024-04-12 231441.3bf0167446fe553a62fd.png",
     "index.html": "/Gpay/index.html",
     "main.42453ac5.css.map": "/Gpay/static/css/main.42453ac5.css.map",
-    "main.3dd105f1.js.map": "/Gpay/static/js/main.3dd105f1.js.map",
+    "main.36007c43.js.map": "/Gpay/static/js/main.36007c43.js.map",
     "453.64512fd7.chunk.js.map": "/Gpay/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42453ac5.css",
-    "static/js/main.3dd105f1.js"
+    "static/js/main.36007c43.js"
   ]
 }
